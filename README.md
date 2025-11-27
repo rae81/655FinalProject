@@ -113,10 +113,10 @@ pip3 install scikit-learn==1.0.2 joblib numpy pandas
 
 ### 5. Clone Repository and Setup Model
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <repo-directory>
 
-# Download model files from Google Drive link above
+# Download model files
 # Extract to modelRamiEid/ directory
 
 # Verify model files
